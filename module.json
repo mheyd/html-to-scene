@@ -3,6 +3,7 @@
 	"title": "HTML to Scene",
 	"description": "A hacky module that allows its user to replace scene contents into a local html file or external website with the power of iframes.",
 	"author": "Javiondox",
+	"id": "html-to-scene",
 	"authors": [
 		{
 			"name": "Javiondox",
